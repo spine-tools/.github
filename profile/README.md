@@ -12,3 +12,15 @@ To connect with other users, to identify problems and exchange experiences, we w
 [**SpineOpt**](https://github.com/Spine-project/SpineOpt.jl) is a Julia-based open source energy system modelling framework capable of planning and scheduling energy and power systems with high level of temporal, spatial and technological adaptability [(docs)](https://spine-project.github.io/SpineOpt.jl/latest/index.html).
 
 [**SpineInterface**](https://github.com/Spine-project/SpineInterface.jl) allows to rapidly build optimization models for the Julia JuMP environment using Spine Toolbox as the data, scenario and workflow management tool [(docs)](https://spine-project.github.io/SpineInterface.jl/latest/index.html).
+
+<p float="left" align="middle">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/spinetoolbox_logo.svg" width="30%">
+    <img alt="Spine Toolbox" src="./profile/spinetoolbox_logo_on_wht.svg" width="30%">
+  </picture>
+  <img hspace="5%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/spineengine_logo.svg" width="30%">
+    <img alt="Spine Engine" src="./profile/spineengine_logo_on_wht.svg" width="30%">
+  </picture>
+</p>
