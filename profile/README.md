@@ -18,13 +18,17 @@ To connect with other users, to identify problems and exchange experiences, we w
 [**SpineInterface**](https://github.com/Spine-tools/SpineInterface.jl) allows to rapidly build optimization models for the Julia JuMP environment using Spine Toolbox as the data, scenario and workflow management tool [(docs)](https://spine-tools.github.io/SpineInterface.jl/latest/index.html).
 
 <p float="left" align="middle">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile/spinetoolbox_logo.svg" width="30%">
-    <img alt="Spine Toolbox" src="./profile/spinetoolbox_logo_on_wht.svg" width="30%">
-  </picture>
+  <a target="_blank" href="https://github.com/Spine-tools/Spine-Toolbox">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="/profile/spinetoolbox_logo.svg" width="30%">
+      <img alt="Spine Toolbox" src="/profile/spinetoolbox_logo_on_wht.svg" width="30%">
+    </picture>
+  </a>
   <img hspace="5%"/>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile/spineengine_logo.svg" width="30%">
-    <img alt="Spine Engine" src="./profile/spineengine_logo_on_wht.svg" width="30%">
-  </picture>
+  <a target="_blank" href="https://github.com/spine-tools/SpineOpt.jl">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="/profile/spineopt_logo.svg" width="20.4%">
+      <img alt="SpineOpt" src="/profile/spineopt_logo_on_wht.svg" width="20.4%">
+    </picture>
+  </a>
 </p>
