@@ -37,13 +37,14 @@ To directly interact with the community or ask a quick question, you can [join t
 
 Typically, we organize a monthly meeting to connect with users, identify problems and exchange experiences. However, this year we present you a yearlong series of events and webinars to show of the fruits of our labour during the mopo project. The program of which can be found below.
 
+### Upcoming events
+
 | Date | Type | Topic | Host | Registration link |
 | --- | --- | --- | --- | --- |
 | March |   |   |   |   |
-| 24 | Webinar | Getting started with Spine Toolbox: a workflow management tool for energy system modelling and beyond | Antti Soinen, VTT | [Register](https://events.teams.microsoft.com/event/df7d4a51-2951-46fd-8d08-a2d995aff922@a628572e-06f9-4cb2-ba54-1c48b387e170/registration) |
-| 31 | Webinar + user meeting | New SpineOpt input data structure (with room for broader questions and issues) | Topi Rasku, VTT | [Register](https://events.teams.microsoft.com/event/dd7e5953-ca78-4963-b5e8-ca89f0738206@a628572e-06f9-4cb2-ba54-1c48b387e170/registration) |
+| 31 | Webinar + user meeting | New SpineOpt input data structure (with room for broader questions and issues) | Topi Rasku, VTT | [Information and registration](https://www.tools-for-energy-system-modelling.org/news-and-event/new-spineopt-input-data-structure/) |
 | April |   |   |   |   |
-| 21 | Webinar | Pan-European dataset and data processing tools for energy system planning | Matti Koivisto, DTU | [Register](https://events.teams.microsoft.com/event/52509577-c613-4b24-86fb-b555ad1df911@a628572e-06f9-4cb2-ba54-1c48b387e170/registration) |
+| 21 | Webinar | Pan-European dataset and data processing tools for energy system planning | Matti Koivisto, DTU | [Information and registration](https://www.tools-for-energy-system-modelling.org/news-and-event/pan-european-dataset-and-data-processing-tools-for-energy-system-planning/) |
 | May |   |   |   |   |
 | 05 | Webinar + user meeting | Getting started with SpineOpt energy system optimization tool: installation, verification and simple system tutorial (with room for broader questions and issues) | Tars Verschelde, KU Leuven | [Register](https://events.teams.microsoft.com/event/b03ef8c9-9eb6-4431-81d8-3b5c67d97d4b@a628572e-06f9-4cb2-ba54-1c48b387e170/registration) |
 | 21 | In person event (Riga) | Open-source Modelling Tools for Energy Planning (workshop with limited place) | RTU | [Information and Registration](https://www.tools-for-energy-system-modelling.org/news-and-event/open-source-modelling-tools-for-energy-planning/) |
@@ -64,3 +65,10 @@ Typically, we organize a monthly meeting to connect with users, identify problem
 | December |   |   |   |   |
 | 01 | Webinar | Industrial case study | Kira West, TNO | [Register](https://events.teams.microsoft.com/event/10d113d5-cff5-41f2-b1c1-0ad7dd971947@a628572e-06f9-4cb2-ba54-1c48b387e170/registration) |
 | 15 | Webinar + user meeting | Advanced SpineOpt tutorials (with room for broader questions and issues) | Manuel Marin, Energy Reform | [Register](https://events.teams.microsoft.com/event/c577e78d-1f74-4a13-a4d6-acabb1c22984@a628572e-06f9-4cb2-ba54-1c48b387e170/registration) |
+
+### Past events
+
+| Date | Type | Topic | Host | Link to recording |
+| --- | --- | --- | --- | --- |
+| March 2026 |   |   |   |   |
+| 2 | Webinar | Getting started with Spine Toolbox: a workflow management tool for energy system modelling and beyond | Antti Soininen, VTT | [pending] |
