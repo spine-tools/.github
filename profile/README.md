@@ -41,8 +41,6 @@ Typically, we organize a monthly meeting to connect with users, identify problem
 
 | Date | Type | Topic | Host | Registration link |
 | --- | --- | --- | --- | --- |
-| March |   |   |   |   |
-| 31 | Webinar + user meeting | New SpineOpt input data structure (with room for broader questions and issues) | Topi Rasku, VTT | [Information and registration](https://www.tools-for-energy-system-modelling.org/news-and-event/new-spineopt-input-data-structure/) |
 | April |   |   |   |   |
 | 21 | Webinar | Pan-European dataset and data processing tools for energy system planning | Matti Koivisto, DTU | [Information and registration](https://www.tools-for-energy-system-modelling.org/news-and-event/pan-european-dataset-and-data-processing-tools-for-energy-system-planning/) |
 | May |   |   |   |   |
@@ -72,3 +70,4 @@ Typically, we organize a monthly meeting to connect with users, identify problem
 | --- | --- | --- | --- | --- |
 | March 2026 |   |   |   |   |
 | 2 | Webinar | Getting started with Spine Toolbox: a workflow management tool for energy system modelling and beyond | Antti Soininen, VTT | [pending] |
+| 31 | Webinar + user meeting | New SpineOpt input data structure (with room for broader questions and issues) | Topi Rasku, VTT | [pending] |
