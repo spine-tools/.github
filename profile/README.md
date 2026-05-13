@@ -71,6 +71,6 @@ Typically, we organize a monthly meeting to connect with users, identify problem
 | 2 | Webinar | Getting started with Spine Toolbox: a workflow management tool for energy system modelling and beyond | Antti Soininen, VTT | [YouTube](https://youtu.be/RRR40HJSiXM?si=9uM5StMMWtW2cefi) |
 | 31 | Webinar + user meeting | New SpineOpt input data structure (with room for broader questions and issues) | Topi Rasku, VTT | [YouTube](https://youtu.be/UWTjlfI3kaQ?si=iCLS5NeGGQUr_WZG) |
 | April 2026|   |   |   |   |
-| 21 | Webinar | Pan-European dataset and data processing tools for energy system planning | Matti Koivisto, DTU | [pending] |
+| 21 | Webinar | Pan-European dataset and data processing tools for energy system planning | Matti Koivisto, DTU | [YouTube](https://youtu.be/LkWu1pKBGoM?si=Ig9famhL9iGMHQ7o) |
 | May 2026 |  |  |  |  |
 | 05 | Webinar + user meeting | Getting started with SpineOpt energy system optimization tool: installation, verification and simple system tutorial (with room for broader questions and issues) | Tars Verschelde, KU Leuven | [YouTube](https://www.youtube.com/watch?v=Tq4gvbuxeuw) |
