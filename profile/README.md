@@ -73,4 +73,4 @@ Typically, we organize a monthly meeting to connect with users, identify problem
 | April 2026|   |   |   |   |
 | 21 | Webinar | Pan-European dataset and data processing tools for energy system planning | Matti Koivisto, DTU | [pending] |
 | May 2026 |  |  |  |  |
-| 05 | Webinar + user meeting | Getting started with SpineOpt energy system optimization tool: installation, verification and simple system tutorial (with room for broader questions and issues) | Tars Verschelde, KU Leuven | [pending] |
+| 05 | Webinar + user meeting | Getting started with SpineOpt energy system optimization tool: installation, verification and simple system tutorial (with room for broader questions and issues) | Tars Verschelde, KU Leuven | [YouTube](https://www.youtube.com/watch?v=Tq4gvbuxeuw) |
