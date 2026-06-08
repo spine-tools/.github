@@ -43,10 +43,7 @@ Typically, we organize a monthly meeting to connect with users, identify problem
 
 | Date | Type | Topic | Host | Registration link |
 | --- | --- | --- | --- | --- |
-| May 2026 |   |   |   |   |
-| 21 | In person event (Riga) | Open-source Modelling Tools for Energy Planning (workshop with limited place) | RTU | [Information and Registration](https://www.tools-for-energy-system-modelling.org/news-and-event/open-source-modelling-tools-for-energy-planning/) |
 | June |   |   |   |   |
-| 02 | Webinar | Using interoperable INES datasets and the latest features in SpineOpt | Arttu Tupala, VTT / Diego Tejada, TNO | [Register](https://events.teams.microsoft.com/event/c2eaa9ae-0eed-494f-997e-bfccbcd9fca6@a628572e-06f9-4cb2-ba54-1c48b387e170/registration) |
 | 23 | Webinar + user meeting | Spine tools in practice: case studies from Energy Reform (with room for broader questions and issues) | Jody Dillon, Energy Reform | [Register](https://events.teams.microsoft.com/event/56be551a-85c6-4b8b-a5f7-a79eb5b3bae3@a628572e-06f9-4cb2-ba54-1c48b387e170/registration) |
 | July |   | *Summer break* |   |   |
 | August |   | *Summer break* |   |   |
@@ -74,3 +71,6 @@ Typically, we organize a monthly meeting to connect with users, identify problem
 | 21 | Webinar | Pan-European dataset and data processing tools for energy system planning | Matti Koivisto, DTU | [YouTube](https://youtu.be/LkWu1pKBGoM?si=Ig9famhL9iGMHQ7o) |
 | May 2026 |  |  |  |  |
 | 05 | Webinar + user meeting | Getting started with SpineOpt energy system optimization tool: installation, verification and simple system tutorial (with room for broader questions and issues) | Tars Verschelde, KU Leuven | [YouTube](https://www.youtube.com/watch?v=Tq4gvbuxeuw) |
+| 21 | In person event (Riga) | Open-source Modelling Tools for Energy Planning (workshop with limited place) | RTU | N/A |
+| June 2026 |  |  |  |  |
+| 02 | Webinar | Using interoperable INES datasets and the latest features in SpineOpt | Arttu Tupala, VTT / Diego Tejada, TNO | pending |
