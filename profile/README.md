@@ -52,7 +52,7 @@ Typically, we organize a monthly meeting to connect with users, identify problem
 | 15 | Webinar + user meeting | Medium-level SpineOpt tutorials (with room for broader questions and issues) | Topi Rasku, VTT | [Register](https://events.teams.microsoft.com/event/a6aa0a7a-fb20-4387-9c12-e90b41d76797@a628572e-06f9-4cb2-ba54-1c48b387e170/registration) |
 | October |   |   |   |   |
 | 07 | User meeting | User meeting – Room for broader questions and issues on Spine Tools |   | [Register](https://events.teams.microsoft.com/event/f354777c-68e8-4c3e-9d8c-09a76dc6d2ff@a628572e-06f9-4cb2-ba54-1c48b387e170/registration) |
-| 20? 21? 22? | In person event (Brussels or Leuven) | Workshop of which the format is **to be decided**; either as part of the [ECEMP](https://www.ecmf.eu/ecemp/ecemp-2026/) conference in Brussels or as a separate event in the university of Leuven |   |   |
+| 20 | Hybrid event (Leuven) | Workshop similar to the event in Riga but in Leuven near Brussels. A day before the [ECEMP](https://www.ecmf.eu/ecemp/ecemp-2026/) conference in Brussels. More information follows later. |   |   |
 | November |   |   |   |   |
 | 10 | Webinar | Baltic case study | Karlis Baltputnis / Diana Zalostiba, RTU | [Register](https://events.teams.microsoft.com/event/8d5463fb-60bd-4073-9c75-ea285cbc15c1@a628572e-06f9-4cb2-ba54-1c48b387e170/registration) |
 | 24 | User meeting | User meeting – Room for broader questions and issues on Spine Tools |   | [Register](https://events.teams.microsoft.com/event/621719dc-4108-4300-a652-4c20eab46cc4@a628572e-06f9-4cb2-ba54-1c48b387e170/registration) |
