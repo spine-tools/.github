@@ -73,4 +73,4 @@ Typically, we organize a monthly meeting to connect with users, identify problem
 | 05 | Webinar + user meeting | Getting started with SpineOpt energy system optimization tool: installation, verification and simple system tutorial (with room for broader questions and issues) | Tars Verschelde, KU Leuven | [YouTube](https://www.youtube.com/watch?v=Tq4gvbuxeuw) |
 | 21 | In person event (Riga) | Open-source Modelling Tools for Energy Planning (workshop with limited place) | RTU | N/A |
 | June 2026 |  |  |  |  |
-| 02 | Webinar | Using interoperable INES datasets and the latest features in SpineOpt | Arttu Tupala, VTT / Diego Tejada, TNO | pending |
+| 02 | Webinar | Using interoperable INES datasets and the latest features in SpineOpt | Arttu Tupala, VTT / Diego Tejada, TNO | [YouTube](https://www.tools-for-energy-system-modelling.org/news-and-event/using-ines-for-interoperable-data-transfer-and-the-latest-features-in-spineopt/) |
