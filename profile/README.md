@@ -44,7 +44,7 @@ Typically, we organize a monthly meeting to connect with users, identify problem
 | Date | Type | Topic | Host | Registration link |
 | --- | --- | --- | --- | --- |
 | June |   |   |   |   |
-| 23 | Webinar + user meeting | Spine tools in practice: case studies from Energy Reform (with room for broader questions and issues) | Jody Dillon, Energy Reform | [Register](https://events.teams.microsoft.com/event/56be551a-85c6-4b8b-a5f7-a79eb5b3bae3@a628572e-06f9-4cb2-ba54-1c48b387e170/registration) |
+| 23 | Webinar + user meeting | Spine tools in practice: case studies from Energy Reform (with room for broader questions and issues) | Jody Dillon, Energy Reform | To be rescheduled to the autumn |
 | July |   | *Summer break* |   |   |
 | August |   | *Summer break* |   |   |
 | September |   |   |   |   |
