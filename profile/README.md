@@ -43,19 +43,11 @@ Typically, we organize a monthly meeting to connect with users, identify problem
 
 | Date | Type | Topic | Host | Registration link |
 | --- | --- | --- | --- | --- |
-| June |   |   |   |   |
-| 23 | Webinar + user meeting | Spine tools in practice: case studies from Energy Reform (with room for broader questions and issues) | Jody Dillon, Energy Reform | To be rescheduled to the autumn |
-| July |   | *Summer break* |   |   |
-| August |   | *Summer break* |   |   |
-| September |   |   |   |   |
-| 01 | Webinar | European case study | Álvaro Porras, EPRI Europe | [Register](https://events.teams.microsoft.com/event/21376aed-9508-4135-bdcc-5c2778caab45@a628572e-06f9-4cb2-ba54-1c48b387e170/registration) |
-| 15 | Webinar + user meeting | Medium-level SpineOpt tutorials (with room for broader questions and issues) | Topi Rasku, VTT | [Register](https://events.teams.microsoft.com/event/a6aa0a7a-fb20-4387-9c12-e90b41d76797@a628572e-06f9-4cb2-ba54-1c48b387e170/registration) |
 | October |   |   |   |   |
-| 07 | User meeting | User meeting – Room for broader questions and issues on Spine Tools |   | [Register](https://events.teams.microsoft.com/event/f354777c-68e8-4c3e-9d8c-09a76dc6d2ff@a628572e-06f9-4cb2-ba54-1c48b387e170/registration) |
 | 20 | Hybrid event (Leuven) | Workshop similar to the event in Riga but in Leuven near Brussels. A day before the [ECEMP](https://www.ecmf.eu/ecemp/ecemp-2026/) conference in Brussels. More information follows later. |   |   |
 | November |   |   |   |   |
 | 10 | Webinar | Baltic case study | Karlis Baltputnis / Diana Zalostiba, RTU | [Register](https://events.teams.microsoft.com/event/8d5463fb-60bd-4073-9c75-ea285cbc15c1@a628572e-06f9-4cb2-ba54-1c48b387e170/registration) |
-| 24 | User meeting | User meeting – Room for broader questions and issues on Spine Tools |   | [Register](https://events.teams.microsoft.com/event/621719dc-4108-4300-a652-4c20eab46cc4@a628572e-06f9-4cb2-ba54-1c48b387e170/registration) |
+| 24 | Webinar + user meeting | European case study (with room for broader questions and issues) | Álvaro Porras, EPRI Europe | [Register](https://events.teams.microsoft.com/event/621719dc-4108-4300-a652-4c20eab46cc4@a628572e-06f9-4cb2-ba54-1c48b387e170/registration) |
 | December |   |   |   |   |
 | 01 | Webinar | Industrial case study | Kira West, TNO | [Register](https://events.teams.microsoft.com/event/10d113d5-cff5-41f2-b1c1-0ad7dd971947@a628572e-06f9-4cb2-ba54-1c48b387e170/registration) |
 | 15 | Webinar + user meeting | Advanced SpineOpt tutorials (with room for broader questions and issues) | Manuel Marin, Energy Reform | [Register](https://events.teams.microsoft.com/event/c577e78d-1f74-4a13-a4d6-acabb1c22984@a628572e-06f9-4cb2-ba54-1c48b387e170/registration) |
@@ -65,12 +57,14 @@ Typically, we organize a monthly meeting to connect with users, identify problem
 | Date | Type | Topic | Host | Link to recording |
 | --- | --- | --- | --- | --- |
 | March 2026 |   |   |   |   |
-| 2 | Webinar | Getting started with Spine Toolbox: a workflow management tool for energy system modelling and beyond | Antti Soininen, VTT | [YouTube](https://youtu.be/RRR40HJSiXM?si=9uM5StMMWtW2cefi) |
+| 02 | Webinar | Getting started with Spine Toolbox: a workflow management tool for energy system modelling and beyond | Antti Soininen, VTT | [YouTube](https://youtu.be/RRR40HJSiXM?si=9uM5StMMWtW2cefi) |
 | 31 | Webinar + user meeting | New SpineOpt input data structure (with room for broader questions and issues) | Topi Rasku, VTT | [YouTube](https://youtu.be/UWTjlfI3kaQ?si=iCLS5NeGGQUr_WZG) |
 | April 2026|   |   |   |   |
 | 21 | Webinar | Pan-European dataset and data processing tools for energy system planning | Matti Koivisto, DTU | [YouTube](https://youtu.be/LkWu1pKBGoM?si=Ig9famhL9iGMHQ7o) |
 | May 2026 |  |  |  |  |
 | 05 | Webinar + user meeting | Getting started with SpineOpt energy system optimization tool: installation, verification and simple system tutorial (with room for broader questions and issues) | Tars Verschelde, KU Leuven | [YouTube](https://www.youtube.com/watch?v=Tq4gvbuxeuw) |
-| 21 | In person event (Riga) | Open-source Modelling Tools for Energy Planning (workshop with limited place) | RTU | N/A |
+| 21 | In person event (Riga) | Open-source Modelling Tools for Energy Planning | RTU | N/A |
 | June 2026 |  |  |  |  |
-| 02 | Webinar | Using interoperable INES datasets and the latest features in SpineOpt | Arttu Tupala, VTT / Diego Tejada, TNO | [YouTube](https://www.tools-for-energy-system-modelling.org/news-and-event/using-ines-for-interoperable-data-transfer-and-the-latest-features-in-spineopt/) |
+| 02 | Webinar | Using interoperable INES datasets and the latest features in SpineOpt | Arttu Tupala, VTT / Diego Tejada, TNO | [YouTube](https://youtu.be/F54_vR-ycD4?si=kmZYBWQXa8fID3Jm) |
+| September |   |   |   |   |
+| 01 | Webinar + user meeting | Medium-level SpineOpt tutorials | Topi Rasku | [YouTube](https://youtu.be/VJ_Bn_3Vl_8?si=HgBn755NXb8rjrKY) |
