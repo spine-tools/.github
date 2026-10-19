@@ -68,3 +68,6 @@ Typically, we organize a monthly meeting to connect with users, identify problem
 | 02 | Webinar | Using interoperable INES datasets and the latest features in SpineOpt | Arttu Tupala, VTT / Diego Tejada, TNO | [YouTube](https://youtu.be/F54_vR-ycD4?si=kmZYBWQXa8fID3Jm) |
 | September |   |   |   |   |
 | 01 | Webinar + user meeting | Medium-level SpineOpt tutorials | Topi Rasku | [YouTube](https://youtu.be/VJ_Bn_3Vl_8?si=HgBn755NXb8rjrKY) |
+| 15 | Webinar + user meeting | Advanced-level SpineOpt tutorials | Tars Verschelde | |
+| Oktober | | | | |
+| 07 | Webinar | SpineH2IRL | Jody Dillon | |
