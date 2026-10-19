@@ -69,5 +69,5 @@ Typically, we organize a monthly meeting to connect with users, identify problem
 | September |   |   |   |   |
 | 01 | Webinar + user meeting | Medium-level SpineOpt tutorials | Topi Rasku | [YouTube](https://youtu.be/VJ_Bn_3Vl_8?si=HgBn755NXb8rjrKY) |
 | 15 | Webinar + user meeting | Advanced-level SpineOpt tutorials | Tars Verschelde | |
-| Oktober | | | | |
+| October | | | | |
 | 07 | Webinar | SpineH2IRL | Jody Dillon | |
