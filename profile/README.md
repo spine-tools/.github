@@ -43,8 +43,6 @@ Typically, we organize a monthly meeting to connect with users, identify problem
 
 | Date | Type | Topic | Host | Registration link |
 | --- | --- | --- | --- | --- |
-| October |   |   |   |   |
-| 20 | Hybrid event (Leuven) | Workshop similar to the event in Riga but in Leuven near Brussels. A day before the [ECEMP](https://www.ecmf.eu/ecemp/ecemp-2026/) conference in Brussels. More information follows later. |   |   |
 | November |   |   |   |   |
 | 10 | Webinar | Baltic case study | Karlis Baltputnis / Diana Zalostiba, RTU | [Register](https://events.teams.microsoft.com/event/8d5463fb-60bd-4073-9c75-ea285cbc15c1@a628572e-06f9-4cb2-ba54-1c48b387e170/registration) |
 | 24 | Webinar + user meeting | European case study (with room for broader questions and issues) | Álvaro Porras, EPRI Europe | [Register](https://events.teams.microsoft.com/event/621719dc-4108-4300-a652-4c20eab46cc4@a628572e-06f9-4cb2-ba54-1c48b387e170/registration) |
@@ -71,3 +69,4 @@ Typically, we organize a monthly meeting to connect with users, identify problem
 | 15 | Webinar + user meeting | Advanced-level SpineOpt tutorials | Tars Verschelde | |
 | October | | | | |
 | 07 | Webinar | SpineH2IRL | Jody Dillon | |
+| 20 | Hybrid event (Leuven) | Workshop similar to the event in Riga but in Leuven near Brussels. A day before the [ECEMP](https://www.ecmf.eu/ecemp/ecemp-2026/) conference in Brussels. |   |   |
