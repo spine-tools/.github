@@ -48,7 +48,7 @@ Typically, we organize a monthly meeting to connect with users, identify problem
 | 24 | Webinar + user meeting | European case study (with room for broader questions and issues) | Álvaro Porras, EPRI Europe | [Register](https://events.teams.microsoft.com/event/621719dc-4108-4300-a652-4c20eab46cc4@a628572e-06f9-4cb2-ba54-1c48b387e170/registration) |
 | December |   |   |   |   |
 | 01 | Webinar | Industrial case study | Kira West, TNO | [Register](https://events.teams.microsoft.com/event/10d113d5-cff5-41f2-b1c1-0ad7dd971947@a628572e-06f9-4cb2-ba54-1c48b387e170/registration) |
-| 15 | Webinar + user meeting | Advanced SpineOpt tutorials (with room for broader questions and issues) | Manuel Marin, Energy Reform | [Register](https://events.teams.microsoft.com/event/c577e78d-1f74-4a13-a4d6-acabb1c22984@a628572e-06f9-4cb2-ba54-1c48b387e170/registration) |
+| 15 | user meeting | room for broader questions and issues |  | [Register](https://events.teams.microsoft.com/event/c577e78d-1f74-4a13-a4d6-acabb1c22984@a628572e-06f9-4cb2-ba54-1c48b387e170/registration) |
 
 ### Past events
 
